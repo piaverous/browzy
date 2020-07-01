@@ -9,7 +9,7 @@ This tool is only available on MacOS for now 👨🏼‍💻
 To use it, download and add it to your path like so:
 
 ```
-curl <REPLACE WITH RELEASE URL>
+curl -o browzy https://github.com/piaverous/browzy/releases/download/v0.1.0/browzy
 mv browzy /usr/local/bin
 ```
 
