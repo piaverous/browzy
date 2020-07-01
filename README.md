@@ -1,5 +1,9 @@
 ![](./assets/Browzy.png)
 
+![](https://github.com/piaverous/browzy/workflows/goreleaser/badge.svg?branch=master)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![star this repo](http://githubbadges.com/star.svg?user=piaverous&repo=browzy&style=flat)](https://github.com/piaverous/browzy) [![fork this repo](http://githubbadges.com/fork.svg?user=piaverous&repo=browzy&style=flat)](https://github.com/piaverous/browzy/fork) 
+
 ## A CLI utility to manage web bookmarks
 
 ### Installing
