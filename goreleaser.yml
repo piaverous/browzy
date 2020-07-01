@@ -1,6 +1,12 @@
 # goreleaser.yml
 archives:
-- format: binary
+- 
+  format: binary
+  replacements:
+    amd64: 64-bit
+    386: 32-bit
+    darwin: macOS
+    linux: linux
 
 release:
   # Repo in which the release will be created.
