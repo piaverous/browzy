@@ -16,4 +16,4 @@ release:
     owner: piaverous
     name: browzy
 
-  name_template: "v{{.Version}}"
+  name_template: "{{.ProjectName}}-v{{.Version}}"
