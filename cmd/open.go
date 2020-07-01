@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 
-	"./utils"
-	"./utils/prompt"
+	"github.com/piaverous/browzy/cmd/utils"
+	"github.com/piaverous/browzy/cmd/utils/prompt"
 
 	"github.com/manifoldco/promptui"
 	"github.com/spf13/cobra"

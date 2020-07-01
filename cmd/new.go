@@ -3,8 +3,8 @@ package cmd
 import (
 	"os"
 
-	"./utils"
-	"./utils/prompt"
+	"github.com/piaverous/browzy/cmd/utils"
+	"github.com/piaverous/browzy/cmd/utils/prompt"
 
 	"github.com/spf13/cobra"
 )

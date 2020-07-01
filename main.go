@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./cmd"
-	"./cmd/utils"
+	"github.com/piaverous/browzy/cmd"
+	"github.com/piaverous/browzy/cmd/utils"
 )
 
 func main() {

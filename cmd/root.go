@@ -4,7 +4,7 @@ import (
 	"log"
 	"os/user"
 
-	"./utils"
+	"github.com/piaverous/browzy/cmd/utils"
 
 	"github.com/spf13/cobra"
 )

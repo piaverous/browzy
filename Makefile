@@ -11,6 +11,7 @@ BINARY_NAME=browzy
 all: build
 build: 
 		mkdir -p bin
+		$(GOBUILD) ./cmd
 		$(GOBUILD) -o bin/$(BINARY_NAME)
 clean: 
-		rm -rf bin/*(D)
+		rm -rf bin/*
