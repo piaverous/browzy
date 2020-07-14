@@ -14,7 +14,7 @@ func SetupCloseHandler() {
 	signal.Notify(c, os.Interrupt, syscall.SIGTERM)
 	go func() {
 		<-c
-		fmt.Println("\r- Ctrl+C pressed in Terminal")
+		fmt.Println("\r  \nDying... - Ctrl+C pressed in Terminal")
 		os.Exit(0)
 	}()
 }
